@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 📫 How to reach me: hiyjokou@gmail.com
-- 🔭 I’m currently working with: Next.js
+- 🔭 I’m currently working with: NestJs & ReactTs
 <!--
 **HIYJOKOU/HIYJOKOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
