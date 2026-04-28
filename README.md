@@ -10,9 +10,9 @@ Currently, I work mainly on a **B2B automotive e-commerce platform** - building 
 
 ## 🚀 Working on
 
-- **B2B automotive e-commerce platform** — products, orders, customers, pricing groups and integrations.
-- **Business/admin tools** — internal panels, workflows, data tables and automation.
-- **newbies.pl** — a programming group where I learn, build projects and exchange knowledge with other developers.
+- **B2B automotive e-commerce platform** - products, orders, customers, pricing groups and integrations.
+- **Business/admin tools** - internal panels, workflows, data tables and automation.
+- **newbies.pl** - a programming group where I learn, build projects and exchange knowledge with other developers.
 
 ---
 
